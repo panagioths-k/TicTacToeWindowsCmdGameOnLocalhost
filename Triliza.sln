@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TrilizaS", "Triliza\Triliza.vcxproj", "{0670D3DB-ADEE-41A7-BF82-2AFC7AAB47BE}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TrilizaC", "TrilizaC\TrilizaC.vcxproj", "{DDB07390-66A7-474A-9100-2D0EC11B0B66}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0670D3DB-ADEE-41A7-BF82-2AFC7AAB47BE}.Debug|Win32.ActiveCfg = Debug|Win32
+		{0670D3DB-ADEE-41A7-BF82-2AFC7AAB47BE}.Debug|Win32.Build.0 = Debug|Win32
+		{0670D3DB-ADEE-41A7-BF82-2AFC7AAB47BE}.Release|Win32.ActiveCfg = Release|Win32
+		{0670D3DB-ADEE-41A7-BF82-2AFC7AAB47BE}.Release|Win32.Build.0 = Release|Win32
+		{DDB07390-66A7-474A-9100-2D0EC11B0B66}.Debug|Win32.ActiveCfg = Debug|Win32
+		{DDB07390-66A7-474A-9100-2D0EC11B0B66}.Debug|Win32.Build.0 = Debug|Win32
+		{DDB07390-66A7-474A-9100-2D0EC11B0B66}.Release|Win32.ActiveCfg = Release|Win32
+		{DDB07390-66A7-474A-9100-2D0EC11B0B66}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

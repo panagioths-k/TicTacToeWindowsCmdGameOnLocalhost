@@ -1,0 +1,56 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "API_Library", "API_Library\API_Library.vcxproj", "{9E0105ED-12B9-AA0E-2C92-CD16225875D6}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "chatclient", "chatclient\chatclient.vcxproj", "{82F79979-B99C-A575-FEDB-B860BAD036E0}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "chatserver", "chatserver\chatserver.vcxproj", "{C0E3ED7B-CF51-13BE-A690-691B8B072019}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "echoclient", "echoclient\echoclient.vcxproj", "{8D9E310A-173A-CD3C-B2F8-04E37393A996}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "echoserver", "echoserver\echoserver.vcxproj", "{AFDCEC81-A416-F55E-ADC3-BF5B6AF9A93E}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "webclient", "webclient\webclient.vcxproj", "{2CE5EB81-FF6B-C72D-7618-C76D7343EFEC}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "webserver", "webserver\webserver.vcxproj", "{D0B60123-6654-B3A3-C518-C8D48C05C106}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Release|Win32 = Release|Win32
+		Template|Win32 = Template|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9E0105ED-12B9-AA0E-2C92-CD16225875D6}.Release|Win32.ActiveCfg = Release|Win32
+		{9E0105ED-12B9-AA0E-2C92-CD16225875D6}.Release|Win32.Build.0 = Release|Win32
+		{9E0105ED-12B9-AA0E-2C92-CD16225875D6}.Template|Win32.ActiveCfg = Release|Win32
+		{9E0105ED-12B9-AA0E-2C92-CD16225875D6}.Template|Win32.Build.0 = Release|Win32
+		{82F79979-B99C-A575-FEDB-B860BAD036E0}.Release|Win32.ActiveCfg = Release|Win32
+		{82F79979-B99C-A575-FEDB-B860BAD036E0}.Release|Win32.Build.0 = Release|Win32
+		{82F79979-B99C-A575-FEDB-B860BAD036E0}.Template|Win32.ActiveCfg = Template|Win32
+		{82F79979-B99C-A575-FEDB-B860BAD036E0}.Template|Win32.Build.0 = Template|Win32
+		{C0E3ED7B-CF51-13BE-A690-691B8B072019}.Release|Win32.ActiveCfg = Release|Win32
+		{C0E3ED7B-CF51-13BE-A690-691B8B072019}.Release|Win32.Build.0 = Release|Win32
+		{C0E3ED7B-CF51-13BE-A690-691B8B072019}.Template|Win32.ActiveCfg = Template|Win32
+		{C0E3ED7B-CF51-13BE-A690-691B8B072019}.Template|Win32.Build.0 = Template|Win32
+		{8D9E310A-173A-CD3C-B2F8-04E37393A996}.Release|Win32.ActiveCfg = Release|Win32
+		{8D9E310A-173A-CD3C-B2F8-04E37393A996}.Release|Win32.Build.0 = Release|Win32
+		{8D9E310A-173A-CD3C-B2F8-04E37393A996}.Template|Win32.ActiveCfg = Template|Win32
+		{8D9E310A-173A-CD3C-B2F8-04E37393A996}.Template|Win32.Build.0 = Template|Win32
+		{AFDCEC81-A416-F55E-ADC3-BF5B6AF9A93E}.Release|Win32.ActiveCfg = Release|Win32
+		{AFDCEC81-A416-F55E-ADC3-BF5B6AF9A93E}.Release|Win32.Build.0 = Release|Win32
+		{AFDCEC81-A416-F55E-ADC3-BF5B6AF9A93E}.Template|Win32.ActiveCfg = Template|Win32
+		{AFDCEC81-A416-F55E-ADC3-BF5B6AF9A93E}.Template|Win32.Build.0 = Template|Win32
+		{2CE5EB81-FF6B-C72D-7618-C76D7343EFEC}.Release|Win32.ActiveCfg = Release|Win32
+		{2CE5EB81-FF6B-C72D-7618-C76D7343EFEC}.Release|Win32.Build.0 = Release|Win32
+		{2CE5EB81-FF6B-C72D-7618-C76D7343EFEC}.Template|Win32.ActiveCfg = Template|Win32
+		{2CE5EB81-FF6B-C72D-7618-C76D7343EFEC}.Template|Win32.Build.0 = Template|Win32
+		{D0B60123-6654-B3A3-C518-C8D48C05C106}.Release|Win32.ActiveCfg = Release|Win32
+		{D0B60123-6654-B3A3-C518-C8D48C05C106}.Release|Win32.Build.0 = Release|Win32
+		{D0B60123-6654-B3A3-C518-C8D48C05C106}.Template|Win32.ActiveCfg = Template|Win32
+		{D0B60123-6654-B3A3-C518-C8D48C05C106}.Template|Win32.Build.0 = Template|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
